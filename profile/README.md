@@ -9,9 +9,9 @@ The primary goal of the Three Tier Access Control security system is to provide 
 ## Features
 
 - To identify the detect and recognize the face of an employee requesting door access
-- To recognize and identify the fingerprint ID of the employee 
-- To read and authenticate a employee using their RFID access card
-- To keep track of door access, including time, employee, direction and status
+- To recognize and identify the fingerprint of an employee 
+- To read and authenticate an employee using their RFID access card
+- To keep track of door access logs, including time, employee, direction and status
 - To be able to add and remove employees via a web application interface
 
 
