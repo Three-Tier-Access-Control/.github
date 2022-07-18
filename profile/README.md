@@ -16,7 +16,7 @@ The primary goal of the Three Tier Access Control security system is to provide 
 
 
 
-## Tech
+## Technology Used
 
 Three-Tier Access Control System uses a number of open source projects to work properly:
 
