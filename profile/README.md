@@ -37,7 +37,7 @@ Three-Tier Access Control System is currently hosted and deployed on free hostin
 | Faces Backend API | [three-tier-faces-backend][TTFB] |
 
 ## Project Image
-![alt text](https://res.cloudinary.com/daq8xg6bm/image/upload/v1658145325/Final%20Year%20Priject/Final_Circuit_Remade_h3ciof.jpg)
+![alt text](https://res.cloudinary.com/daq8xg6bm/image/upload/v1668793274/Final%20Year%20Priject/three-tier_1_d7dtuw.jpg)
 
 ## Videos
 
